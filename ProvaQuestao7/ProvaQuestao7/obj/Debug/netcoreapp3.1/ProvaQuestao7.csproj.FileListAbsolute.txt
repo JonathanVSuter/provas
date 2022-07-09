@@ -1,0 +1,14 @@
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.exe
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.deps.json
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.runtimeconfig.json
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.runtimeconfig.dev.json
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.dll
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\bin\Debug\netcoreapp3.1\ProvaQuestao7.pdb
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.csproj.AssemblyReference.cache
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.AssemblyInfoInputs.cache
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.AssemblyInfo.cs
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.dll
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.pdb
+C:\Users\jonathan.suter\source\repos\ProvaQuestao7\ProvaQuestao7\obj\Debug\netcoreapp3.1\ProvaQuestao7.genruntimeconfig.cache

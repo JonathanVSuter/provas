@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stCeFd1hOhALDl3uMnSi0AP79RvdEm+C5kvm9uMNwrj2Vh5DDdc6B7Mhfg0dioTZ724iC3mdWpPIIvoQl2FsEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonathan.suter\\source\\repos\\ProvaQuestao7\\ProvaQuestao7\\ProvaQuestao7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathan.suter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
